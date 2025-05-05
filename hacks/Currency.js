@@ -2,4 +2,6 @@
 x = PIXI.game.prodigy.player.backpack.data.currency
 for (i in x) {
     x[i] = {"ID": x[i].ID, "N": 9000000}
+
+    
 }
